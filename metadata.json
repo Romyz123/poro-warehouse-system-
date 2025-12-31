@@ -1,0 +1,7 @@
+{
+  "name": "Copy of WarehouseMaster AI",
+  "description": "A comprehensive enterprise-grade warehouse management system with bin tracking, bulk CSV processing, smart inventory optimization via Gemini, and QR-based checkout workflows.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
